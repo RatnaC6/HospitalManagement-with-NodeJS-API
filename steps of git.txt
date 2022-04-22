@@ -1,0 +1,23 @@
+[11:21 AM] Viren Chakraborty
+Overall steps:
+1. Any one person from the group will create Github repo
+2. Same person will create local git repo
+3. Same person will do git remote add origin "<<repo url>>"
+4. All others in the group
+a. Make an empty folder
+b. Open git bash in the folder
+c. git clone "<<repo url>"
+5. Make the additions / changes as necessary
+6. git pull to take any updates
+7. git add .
+8. git commmit -m "comments"
+9. git push
+
+
+Priority areas for today:
+
+Github repository of each group
+
+Document with case study plan in case topic is different from online store
+
+Database design
